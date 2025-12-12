@@ -1,2 +1,2 @@
-# Profile-portfolio
+# profile-portfolio
 This is my Profile portfolio.
